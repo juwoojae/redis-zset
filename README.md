@@ -1,6 +1,6 @@
 ﻿# redis-zset
 
-Redis Sorted Set(ZSet)을 활용한 간단한 랭킹/카테고리 예제 프로젝트입니다. Spring Boot(WebMVC)와 Spring Data Redis를 사용합니다.
+Redis Sorted Set(ZSet)을 활용한 간단한 랭킹/카테고리 예제 프로젝트입니다. Spring Boot와 Spring Data Redis를 사용합니다.
 
 ## 요구사항
 - Java 17
